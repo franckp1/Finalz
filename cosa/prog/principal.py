@@ -1,10 +1,10 @@
 import sqlite3
 import time
-import agregar
-import ver_datos
-import buscar
-import borrar
-import actu
+from cosa import agregar
+from cosa.ver_datos import ver_datos
+from cosa.buscar import buscar
+from cosa.borrar import borrar
+from cosa.actu import actu
 def add_one(number):
     return number + 1
 class Ejemplo():

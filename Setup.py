@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="lols0",
+     name="lols0",
     version="0.4",
     license="MIT",
     description="base de datos",
