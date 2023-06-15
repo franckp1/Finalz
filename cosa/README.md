@@ -1,1 +1,0 @@
-"es una base de datos para almacenar una lista de estudiantes y de sus notas"
