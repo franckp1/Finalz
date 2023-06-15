@@ -1,4 +1,4 @@
-from prog import * 
+from cosa.prog import principal 
 
 
 
