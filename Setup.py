@@ -7,6 +7,6 @@ setup(
     description="base de datos",
     author="Andres Pérez C",
     packages=find_packages(),
-    url="https://github.com/CronoAturborim/final"
+    url="https://github.com/franckp1/Finalz"
 
 )
